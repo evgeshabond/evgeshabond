@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning **Jest + React Testing Library**
 - Checkout my most recent projects:
-  - React-game
+  - React-game <br/>
   [REPO LINK](https://github.com/evgeshabond/react-game)
   [![gameDemo.gif](https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y)
-  
-  - RsLang
+  <br/>
+  - RsLang <br/>
   [REPO LINK](https://github.com/evgeshabond/rslang)
   [![demo.gif](https://i.postimg.cc/qRXWZv8s/demo.gif)](https://postimg.cc/jw28DK32)
-  
-  - Storage-app backend
+  <br/>
+  - Storage-app backend <br/>
   [REPO LINK](https://github.com/evgeshabond/storage-backend)
-
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
