@@ -9,7 +9,8 @@
 - Contact via email **eugeniy.bondarenko@gmail.com**
 
 - 🌱 I’m currently learning **Jest + React Testing Library**
-- Checkout my most recent projects:
+
+<h3>Checkout my most recent projects:</h3>
 <ul>
   <li>
   React-game
