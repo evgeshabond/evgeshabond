@@ -13,18 +13,18 @@
 <h3>Checkout my most recent projects:</h3>
 <ul>
   <li>
-  React-game
-    <a href='https://github.com/evgeshabond/react-game'>REPO LINK</a>
+    <h4>React-game</h4>
+    <p><a href='https://github.com/evgeshabond/react-game'>REPO LINK</a></p>
     <img src='https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y' alt='demo' />
   </li>
   <li>
-  RsLang
-    [REPO LINK](https://github.com/evgeshabond/rslang)
-    [![demo.gif](https://i.postimg.cc/qRXWZv8s/demo.gif)](https://postimg.cc/jw28DK32)
+  <h4>RsLang</h4>
+    <p><a href='https://github.com/evgeshabond/rslang'>REPO LINK</a></p>
+    <img src='https://i.postimg.cc/qRXWZv8s/demo.gif)](https://postimg.cc/jw28DK32' alt='demo' />
   </li>
   <li>
-    Storage-app backend 
-    [REPO LINK](https://github.com/evgeshabond/storage-backend)
+    <h4>Storage-app backend </h4>
+    <p><a href='https://github.com/evgeshabond/storage-backend'>REPO LINK</a></p>
   </li>
 </ul>
 
