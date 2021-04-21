@@ -6,27 +6,30 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgeshabond&label=Profile%20views&color=0e75b6&style=flat" alt="evgeshabond" /> </p>
-- Contact me **eugeniy.bondarenko@gmail.com**
+- Contact via email **eugeniy.bondarenko@gmail.com**
 
 - 🌱 I’m currently learning **Jest + React Testing Library**
 - Checkout my most recent projects:
-  - React-game <br/>
-  [REPO LINK](https://github.com/evgeshabond/react-game)
-  [![gameDemo.gif](https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y)
-  <br/>
-  - RsLang <br/>
-  [REPO LINK](https://github.com/evgeshabond/rslang)
-  [![demo.gif](https://i.postimg.cc/qRXWZv8s/demo.gif)](https://postimg.cc/jw28DK32)
-  <br/>
-  - Storage-app backend <br/>
-  [REPO LINK](https://github.com/evgeshabond/storage-backend)
-<br/>
-
+<ul>
+  <li>
+  React-game
+    [REPO LINK](https://github.com/evgeshabond/react-game)
+    [![gameDemo.gif](https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y)
+  </li>
+  <li>
+  RsLang
+    [REPO LINK](https://github.com/evgeshabond/rslang)
+    [![demo.gif](https://i.postimg.cc/qRXWZv8s/demo.gif)](https://postimg.cc/jw28DK32)
+  </li>
+  <li>
+    Storage-app backend 
+    [REPO LINK](https://github.com/evgeshabond/storage-backend)
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eugen-bondarenko-a068b217a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eugen-bondarenko-a068b217a/" height="30" width="40" /></a>
 </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evgeshabond&show_icons=true&locale=en&layout=compact" alt="evgeshabond" /></p>
