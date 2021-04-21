@@ -6,14 +6,22 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgeshabond&label=Profile%20views&color=0e75b6&style=flat" alt="evgeshabond" /> </p>
-
-- 🌱 I’m currently learning **Jest + React Testing Library**
-
-- 1. React-game [https://github.com/evgeshabond/react-game](https://github.com/evgeshabond/react-game)
-
 - Contact me **eugeniy.bondarenko@gmail.com**
 
-- 2. RsLang [https://github.com/evgeshabond/react-game](https://github.com/evgeshabond/react-game)
+- 🌱 I’m currently learning **Jest + React Testing Library**
+- Checkout my most recent projects:
+  - React-game
+  [REPO LINK](https://github.com/evgeshabond/react-game)
+  [![gameDemo.gif](https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y)
+  
+  - RsLang
+  [REPO LINK](https://github.com/evgeshabond/rslang)
+  [![demo.gif](https://i.postimg.cc/qRXWZv8s/demo.gif)](https://postimg.cc/jw28DK32)
+  
+  - Storage-app backend
+  [REPO LINK](https://github.com/evgeshabond/storage-backend)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
