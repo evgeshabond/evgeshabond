@@ -18,8 +18,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgeshabond&label=Profile%20views&color=0e75b6&style=flat" alt="evgeshabond" /> </p>
-- Contact via email **eugeniy.bondarenko@gmail.com**
-
 - 🌱 I’m currently learning **Jest + React Testing Library**
 
 <h3>Checkout my most recent projects:</h3>
@@ -43,6 +41,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eugen-bondarenko-a068b217a/" target="blank">Linkedin</a>
+    <br />
+<a href='mailto:eugeniy.bondarenko@gmail.com'>Email</a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evgeshabond&show_icons=true&locale=en&layout=compact" alt="evgeshabond" /></p>
