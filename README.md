@@ -14,8 +14,8 @@
 <ul>
   <li>
   React-game
-    [REPO LINK](https://github.com/evgeshabond/react-game)
-    [![gameDemo.gif](https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y)
+    <a href='https://github.com/evgeshabond/react-game'>REPO LINK</a>
+    <img src='https://i.postimg.cc/TYkj4q4g/gameDemo.gif)](https://postimg.cc/XpCyZF3Y' alt='demo' />
   </li>
   <li>
   RsLang
